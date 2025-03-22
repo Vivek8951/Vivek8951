@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Vivek8951
 - 👀 I’m interested in ... Programming
 - 🌱 I’m currently Pursuing ...BCA
--
 - 📫 How to reach me ... vivekvic57@gmail.com
 
 <!---
