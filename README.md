@@ -1,73 +1,81 @@
-<!-- Profile README.md -->
-
 <h1 align="center">
-  Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Vivek
+  Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" alt="wave"/>, I'm Vivek 🚀
 </h1>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=450&lines=🚀+Full-Stack+Developer;🤖+AI+Enthusiast;🌐+Open+Source+Contributor;💡+Always+Learning+New+Tech" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=450&lines=Full-Stack+Developer+%F0%9F%91%BB;AI+Enthusiast+%F0%9F%A4%96;Open+Source+Contributor+%F0%9F%92%AA;Always+Learning+New+Tech+%F0%9F%92%A1" alt="Typing SVG"/>
 </h3>
 
 ---
 
-### 🧑‍💻 About Me  
-💡 BCA Graduate | MCA Student (DevOps Specialization)  
-🤖 Passionate about **AI, Cloud, and Full-Stack Development**  
-📘 Currently building: **Tech-Learn (E-Learning Platform)**  
-🎯 Goal: Create my own **AI model (Alpha AI)**  
-⚡ Fun Fact: I break stuff just to fix it smarter next time 🔥  
+<p align="center">
+  <img src="https://img.shields.io/badge/BCA%20Graduate-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/MCA%20Student-devops-blueviolet?style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=Vivek8951&label=Profile+Views&color=blueviolet&style=flat" alt="Profile Views"/>
+  <img src="https://img.shields.io/github/followers/Vivek8951?label=Followers&style=social" alt="GitHub Followers"/>
+</p>
 
 ---
 
-### ⚡ Tech Stack  
+## 🧑‍💻 About Me  
+- 🎓 **BCA Graduate** | MCA Student (*DevOps Specialization*)
+- 🤖 *Passionate about AI, Cloud, and Full-Stack Development*
+- 🛠️ *Currently Building:* **Tech-Learn** – E-Learning Platform
+- 🧠 *Goal:* Create my own AI Model (**Alpha AI**)
+- ⚡ *Fun Fact*: I break stuff just to fix it smarter next time 🔥  
+
+---
+
+## 🛠️ Tech Stack  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,java,python,spring,mysql,nodejs,express" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,java,python,spring,mysql,nodejs,express" alt="Core stack"/>
   <br/>
-  <img src="https://skillicons.dev/icons?i=git,github,linux,ubuntu,docker,figma,postman,vscode" />
+  <img src="https://skillicons.dev/icons?i=git,github,linux,ubuntu,docker,figma,postman,vscode" alt="Tools"/>
 </p>
 
 ---
 
-### 📊 GitHub Stats & Achievements  
+## 📊 GitHub Activity & Achievements  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vivek8951&show_icons=true&theme=radical&hide_border=true" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vivek8951&theme=radical&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Vivek8951&show_icons=true&theme=radical&hide_border=true" height="150" alt="GitHub stats"/>
+  <img src="https://streak-stats.demolab.com/?user=Vivek8951&theme=radical&hide_border=true" height="150" alt="GitHub Streak"/>
 </p>
-
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vivek8951&theme=tokyonight" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Vivek8951&theme=radical&margin-w=8&no-frame=true" alt="Trophies"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vivek8951&layout=compact&theme=radical" alt="Top Languages"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vivek8951&theme=tokyonight" alt="Profile summary"/>
 </p>
-
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Vivek8951&theme=radical&margin-w=8&no-frame=true" />
-</p>
-
----
-
-### 🚀 Featured Projects  
-🌐 [Tech-Learn](https://github.com/Vivek8951/Tech-Learn) – AI-powered e-learning platform  
-🛒 [Edu-Marketplace](https://github.com/Vivek8951/...) – Free resource-sharing marketplace  
-🤖 [Alpha AI](https://github.com/Vivek8951/...) – Multi-purpose AI model  
-
----
-
-### 🌐 Connect With Me  
-<p align="center">
-  <a href="https://www.linkedin.com/in/vivek-s-b43440344/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" /></a>
-  <a href="https://x.com/Viveks76" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white" /></a>
-  <a href="mailto:vicvivek9@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" /></a>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vivek8951&theme=radical" alt="GitHub Contribution Graph"/>
 </p>
 
 ---
 
-### 🐍 Snake Animation  
+## 🚀 Featured Projects  
+- 🌐 [Tech-Learn](https://github.com/Vivek8951/Tech-Learn) — *AI-powered e-learning platform*
+- 🛒 [Edu-Marketplace](https://github.com/Vivek8951/...) — *Free resource-sharing marketplace*
+- 🤖 [Alpha AI](https://github.com/Vivek8951/...) — *Multi-purpose AI model*
+
+---
+
+## 🎯 More Widgets (UI/UX Enhancements)
 <p align="center">
-  <img src="https://github.com/Vivek8951/Vivek8951/blob/output/github-contribution-grid-snake.svg" alt="snake gif" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="GitHub Quotes"/>
+</p>
+
+<p align="center">
+  <img src="https://readme-jokes.vercel.app/api?hideBorder&bgColor=%232F2F2F&textColor=%23fff" alt="Joke of the Day"/>
+</p>
+
+<p align="center">
+  ![GitHub contributions](https://badges.pufler.dev/contributions/monthly/Vivek8951?color=blueviolet)
 </p>
 
 ---
 
+## 🌐 Connect With Me  
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Vivek8951&label=Profile+Views&color=blueviolet&style=flat" alt="views" />
-  <img src="https://img.shields.io/github/followers/Vivek8951?label=Followers&style=social" />
+  <a href="https://www.linkedin.com/in/vivek-s-b43440344/" target="_blank" aria-label="LinkedIn"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://x.com/Viveks76" target="_blank" aria-label="Twitter"><img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white" alt="Twitter"/></a>
+  <a href="mailto:vicvivek9@gmail.com" aria-label="Gmail"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
