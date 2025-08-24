@@ -54,7 +54,7 @@
 ## 🚀 Featured Projects  
 - 🌐 [Tech-Learn](https://github.com/Vivek8951/Tech-Learn) — *AI-powered e-learning platform*
 - 🛒 [Edu-Marketplace](https://github.com/Vivek8951/...) — *Free resource-sharing marketplace*
-- 🤖 [Alpha AI](https://github.com/Vivek8951/...) — *Multi-purpose AI model*
+- 🤖 [Alpha AI](https://github.com/Vivek8951/Alpha-AI) — *Multi-purpose AI model*
 
 ---
 
