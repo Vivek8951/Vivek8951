@@ -21,8 +21,7 @@
 
 - 🎓 **BCA Graduate** | **MCA Student** (*DevOps Specialization*)  
 - 🤖 *Passionate about AI, Cloud, and Full-Stack Development*  
-- 🛠️ *Currently Building:* **Tech-Learn** – an AI-powered E-Learning Platform  
-- 🧠 *Goal:* Create my own AI Model (**Alpha AI**)  
+- 🛠️ *Currently Building:* **Tech-Learn** – an AI-powered E-Learning Platform   
 - ⚡ *Fun Fact:* I break stuff just to fix it smarter next time 🔥  
 
 ---
